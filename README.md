@@ -1,4 +1,4 @@
-# Rewire create-react-app to use SASS!
+# Rewire create-react-app to use SASS For Node 16!
 
 Add SASS to your creat-react-app project without ejecting 
 
@@ -15,8 +15,8 @@ Inspired by [react-app-rewire-scss](https://github.com/aze3ma/react-app-rewire-s
 ## Install
 
 ```bash
-$ yarn add react-app-rewired react-app-rewire-sass-rule -D
-$ npm install react-app-rewired react-app-rewire-sass-rule --save-dev
+$ yarn add react-app-rewired saberap/react-app-rewire-sass-rule -D
+$ npm install react-app-rewired saberap/react-app-rewire-sass-rule --save-dev
 ```
 
 ## Usaga
